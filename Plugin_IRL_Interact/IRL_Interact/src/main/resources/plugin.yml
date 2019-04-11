@@ -1,0 +1,7 @@
+name: Main
+version: ${project.version}
+main: com.gameincluded.rflintstone.irl_interact.Main
+api-version: 1.13
+authors: [Ruben_Flinterman]
+description: A plugin that connects to a weather API to change the weather in Minecraft
+website: www.gameincluded.com
